@@ -1,0 +1,13 @@
+# Core libraries for vLLM and OpenAI client
+vllm
+openai
+
+# For Hugging Face authentication and model downloads
+huggingface_hub
+hf_transfer
+
+# For model quantization support
+bitsandbytes
+
+# For performance optimization (highly recommended)
+flashinfer
