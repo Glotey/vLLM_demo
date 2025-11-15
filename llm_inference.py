@@ -8,7 +8,7 @@ client = OpenAI(
 )
 
 # Define the model and the query
-model_name = "google/gemma-3-12b-it"
+model_name = "gaunernst/gemma-3-12b-it-int4-awq"
 query = "Why is the sky blue?"
 
 print(f"Querying model: {model_name}")
